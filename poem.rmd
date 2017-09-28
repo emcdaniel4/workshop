@@ -17,6 +17,12 @@ you, if you change any of this the git program will notice it and compromise you
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
 ## Second Verse
+More than halfway up the pass    
+Was a spring with a broken drinking glass,    
+And whether the farmer drank or not    
+His mare was sure to observe the spot    
+By cramping the wheel on a water-bar,   
+
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
 ## Third Verse
